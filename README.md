@@ -4,7 +4,6 @@ A minimal, product-focused online thrift clothing store inspired by [TravisScott
 
 ## Live Website
 Visit the live site here: https://xrahul7.github.io/thrifted-threads-site/  
-*(Replace `yourusername` with your actual GitHub username once published.)*
 
 ## Features
 - Minimal homepage with featured garment
