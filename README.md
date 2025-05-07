@@ -3,7 +3,7 @@
 A minimal, product-focused online thrift clothing store inspired by [TravisScott.com](https://shop.travisscott.com/). Built using HTML and CSS, designed for clean browsing and fast checkout.
 
 ## Live Website
-Visit the live site here: [https://yourusername.github.io/thrifted-threads-site/](https://yourusername.github.io/thrifted-threads-site/)  
+Visit the live site here: https://xrahul7.github.io/thrifted-threads-site/  
 *(Replace `yourusername` with your actual GitHub username once published.)*
 
 ## Features
